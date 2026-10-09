@@ -1,0 +1,15 @@
+{
+  "identifier": "phion-agent-services",
+  "name": "PHION Agent Services",
+  "version": "1.57.0",
+  "author": "PHION Systems",
+  "homepage": "https://phion.systems",
+  "cloudEndpoint": "https://phion.systems/mcp/decision",
+  "description": "Helps AI agents find and compare external services before use.",
+  "category": "tools",
+  "tags": [
+    "agents",
+    "mcp",
+    "service-discovery"
+  ]
+}
